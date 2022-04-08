@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 ### 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 DAI ٩(๑>◡<๑)۶
 
-[![haiweilian's github stats](https://github-readme-stats.vercel.app/api?username=dreamcenter&show_icons=true)](##)
+![dreamcenter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamcenter&show_icons=true&theme=radical)
