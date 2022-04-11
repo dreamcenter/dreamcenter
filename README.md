@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamcenter&layout=compact)](https://github.com/dreamcenter/dreamcenter-my)
 
 ## Welcome
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201703%2F10%2F20170310160757_ukCPf.thumb.400_0.gif&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1652028856&t=6af87cf41f2219af88f97240c550cbd8"/>
+<img src="http://dingyue.ws.126.net/2021/0515/6540459cg00qt5iwd02dud200u000igg00it00bk.gif"/>
