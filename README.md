@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamcenter&layout=compact)](https://github.com/dreamcenter/dreamcenter-my)
 
 ## Welcome
-<img src="http://dingyue.ws.126.net/2021/0515/6540459cg00qt5iwd02dud200u000igg00it00bk.gif"/>
+
